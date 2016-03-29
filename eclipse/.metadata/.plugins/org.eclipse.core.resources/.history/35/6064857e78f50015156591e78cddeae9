@@ -1,0 +1,18 @@
+package main.java.net.beardedninja.laser;
+
+import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.fml.common.event.FMLInitializationEvent;
+import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
+
+@Mod(modid="LaserReboot", name="Laser Reboot", version="1.9-0.1")
+public class LaserReboot {
+	@Mod.EventHandler
+	public void preInitialization(FMLPreInitializationEvent event) {
+		
+	}
+	
+	@Mod.EventHandler
+	public void initialization(FMLInitializationEvent event) {
+		
+	}
+}

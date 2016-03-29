@@ -1,0 +1,25 @@
+Symbol range map extraction starting
+Processing 1 files
+processing net\beardedninja\laser\LaserReboot.java
+@|net\beardedninja\laser\LaserReboot.java|8|40|main.java.net.beardedninja.laser|package|main.java.net.beardedninja.laser|(file)
+Class Start: main.java.net.beardedninja.laser.LaserReboot
+   @|net\beardedninja\laser\LaserReboot.java|432|443|LaserReboot|class|main.java.net.beardedninja.laser.LaserReboot
+   @|net\beardedninja\laser\LaserReboot.java|444|452|instance|field|main.java.net.beardedninja.laser.LaserReboot|instance|
+   Method Start: preInitialization(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|net\beardedninja\laser\LaserReboot.java|488|505|preInitialization|method|main.java.net.beardedninja.laser.LaserReboot|preInitialization|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|net\beardedninja\laser\LaserReboot.java|506|531|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      @|net\beardedninja\laser\LaserReboot.java|532|537|event|param|main.java.net.beardedninja.laser.LaserReboot|preInitialization|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+   Method End: preInitialization(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: initialization(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|net\beardedninja\laser\LaserReboot.java|581|595|initialization|method|main.java.net.beardedninja.laser.LaserReboot|initialization|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|net\beardedninja\laser\LaserReboot.java|596|618|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|net\beardedninja\laser\LaserReboot.java|619|624|event|param|main.java.net.beardedninja.laser.LaserReboot|initialization|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+   Method End: initialization(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: postInitialization(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|net\beardedninja\laser\LaserReboot.java|668|686|postInitialization|method|main.java.net.beardedninja.laser.LaserReboot|postInitialization|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|net\beardedninja\laser\LaserReboot.java|687|713|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+      @|net\beardedninja\laser\LaserReboot.java|714|719|event|param|main.java.net.beardedninja.laser.LaserReboot|postInitialization|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|event|0
+   Method End: postInitialization(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+Class End  : main.java.net.beardedninja.laser.LaserReboot
+endProcessing net\beardedninja\laser\LaserReboot.java
+

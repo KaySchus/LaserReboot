@@ -1,0 +1,5 @@
+package net.beardedninja.laser.core;
+
+public class CommonProxy implements IProxy {
+
+}

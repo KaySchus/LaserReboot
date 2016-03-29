@@ -1,0 +1,4 @@
+package net.beardedninja.laser.core;
+
+public interface IProxy {
+}

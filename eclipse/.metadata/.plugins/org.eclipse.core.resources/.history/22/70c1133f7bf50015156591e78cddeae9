@@ -1,0 +1,11 @@
+[{
+    "modid": "LaserReboot",
+    "name": "Laser Reboot",
+    "description": "Reboot of Laser Mod for Minecraft 1.25!",
+    "version": "0.1",
+    "mcversion": "1.9",
+    "url": "http://www.beardedninja.net",
+    "authorList": [ "KaySchus" ],
+    "credits": "Tim Rurkowski, gamax92, and many more",
+    "logoFile": "assets/biomesoplenty/textures/gui/logo.png"
+}]

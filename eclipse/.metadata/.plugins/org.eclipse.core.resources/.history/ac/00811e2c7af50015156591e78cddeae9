@@ -1,0 +1,21 @@
+[
+{
+  "modid": "LaserReboot",
+  "name": "Laser Reboot",
+  "description": "Rebooting the Laser Mod that existed for Minecraft 1.25!",
+  "version": "0.1",
+  "mcversion": "1.9",
+  "url": "http://www.beardedninja.net",
+  "logoFile": "",
+  "mcversion": "1.9",
+  "url": "http://www.beardedninja.net",
+  "updateUrl": "",
+  "authors": [ "KaySchus" 
+  ],
+  "credits": "",
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [
+     "mod_MinecraftForge"
+]
+}

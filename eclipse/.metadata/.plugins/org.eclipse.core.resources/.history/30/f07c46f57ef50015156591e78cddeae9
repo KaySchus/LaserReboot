@@ -1,0 +1,5 @@
+package net.beardedninja.laser.util;
+
+public class LogHelper {
+
+}

@@ -1,0 +1,18 @@
+[
+{
+  "modid": "LaserReboot",
+  "name": "Laser Reboot",
+  "description": "Rebooting the Laser Mod that existed for Minecraft 1.25!",
+  "version": "0.1",
+  "credits": "",
+  "logoFile": "",
+  "mcversion": "1.9",
+  "url": "http://www.mod-buildcraft.com/",
+  "updateUrl": "",
+  "authors": [ "SpaceToad", "Krapht", "SirSengir", "Others" ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [
+     "mod_MinecraftForge"
+]
+}

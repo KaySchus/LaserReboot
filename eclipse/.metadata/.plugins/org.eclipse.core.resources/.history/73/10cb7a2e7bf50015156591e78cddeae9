@@ -1,0 +1,11 @@
+[{
+    "modid": "LaserReboot",
+    "name": "Laser Reboot",
+    "description": "Adds over 75 new biomes, blocks, and more!",
+    "version": "0.1",
+    "mcversion": "1.9",
+    "url": "http://files.minecraftforge.net/maven/com/github/glitchfiend/biomesoplenty/BiomesOPlenty/",
+    "authorList": ["Adubbz", "Amnet", "Cheeserolls", "Forstride", "ted80"],
+    "credits": "Tim Rurkowski, gamax92, and many more",
+    "logoFile": "assets/biomesoplenty/textures/gui/logo.png"
+}]
